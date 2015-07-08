@@ -1,8 +1,4 @@
-/* DHT library 
 
-MIT license
-written by Adafruit Industries
-*/
 
 #include "CMDust.h"
 
