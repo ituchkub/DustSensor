@@ -3,13 +3,13 @@
 
  Dust::Dust(uint8_t pPin) {
   pin = pPin;
-    pinMode(pinDust,INPUT);
+    pinMode(pin,INPUT);
  
 }
 
  Dust::Dust(uint8_t pPin,float pSampletime_ms) {
   pin = pPin;
-    pinMode(pinDust,INPUT);
+    pinMode(pin,INPUT);
   sampletime_ms = pSampletime_ms;
  
 }
